@@ -11,7 +11,7 @@ function MyApp({ Component, pageProps }: AppProps) {
         <title>Big Boss Burgers</title>
         <link rel="shortcut icon" href="../favicon.svg" />
         <link rel="image_src" href="../link-preview.png" />
-
+        <meta property="og:image" content="../link-preview.png" />
         <link
           rel="stylesheet"
           href="https://use.fontawesome.com/releases/v5.15.4/css/all.css"
