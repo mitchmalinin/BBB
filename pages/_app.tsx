@@ -10,6 +10,8 @@ function MyApp({ Component, pageProps }: AppProps) {
       <Head>
         <title>Big Boss Burgers</title>
         <link rel="shortcut icon" href="../favicon.svg" />
+        <link rel="image_src" href="../link-preview.png" />
+
         <link
           rel="stylesheet"
           href="https://use.fontawesome.com/releases/v5.15.4/css/all.css"
