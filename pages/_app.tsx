@@ -9,7 +9,7 @@ function MyApp({ Component, pageProps }: AppProps) {
     <>
       <Head>
         <title>Big Boss Burgers</title>
-        <link rel="shortcut icon" href="/static/favicon.svg" />
+        <link rel="shortcut icon" href="../favicon.svg" />
         <link
           rel="stylesheet"
           href="https://use.fontawesome.com/releases/v5.15.4/css/all.css"
